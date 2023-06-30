@@ -7,6 +7,6 @@
     "test": "jest --watch"
   },
   "dependencies": {
-    "jest": "^22.2.2"
+    "jest": "^26.0.0"
   }
 }
